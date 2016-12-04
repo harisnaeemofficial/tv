@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="tv.duckie" versionCode="10" version="1.1.4">
     <name>Social</name>
-    <name>DuckieTV</name>
+    <name>TV</name>
     <description>The TV-Show Tracker You've been waiting for</description>
-    <author href="https://duckie.tv/" email="tvduckie@gmail.com">DuckieTV</author>
+    <author href="https://harix786.github.io" email="tvduckie@gmail.com">TV</author>
     <content src="index.html" />
     <access origin="*" />
 
